@@ -1,0 +1,110 @@
+[
+  {
+    "problema": "Esqueci minha senha",
+    "solucao": "Para recuperar sua senha, clique no link 'Esqueci minha senha' na página de login e siga as instruções. Você receberá um email com um link para redefinir sua senha."
+  },
+  {
+    "problema": "Não consigo acessar minha conta",
+    "solucao": "Verifique se você está usando o nome de usuário e senha corretos. Se o problema persistir, tente redefinir sua senha ou entre em contato com nosso suporte."
+  },
+  {
+    "problema": "Meu computador está lento",
+    "solucao": "Experimente reiniciar o computador. Feche os programas que você não está usando. Execute uma verificação de vírus e malware. Desinstale programas desnecessários. Libere espaço em disco."
+  },
+  {
+    "problema": "Não consigo conectar na internet",
+    "solucao": "Verifique se o cabo de rede está conectado ou se o Wi-Fi está ligado. Reinicie o modem e o roteador. Verifique as configurações de rede do seu computador."
+  },
+  {
+    "problema": "Meu email não está funcionando",
+    "solucao": "Verifique sua conexão com a internet. Verifique se você está usando o nome de usuário e senha corretos. Verifique as configurações do servidor de email."
+  },
+  {
+    "problema": "A impressora não imprime",
+    "solucao": "Verifique se a impressora está ligada e conectada ao computador. Verifique se há papel na bandeja e se os cartuchos de tinta ou toner não estão vazios. Reinicie a impressora e o computador."
+  },
+  {
+    "problema": "Meu telefone está sem som",
+    "solucao": "Verifique se o volume está ligado e se o telefone não está no modo silencioso. Verifique se os alto-falantes não estão obstruídos. Reinicie o telefone."
+  },
+  {
+    "problema": "O aplicativo está travando",
+    "solucao": "Feche o aplicativo e abra-o novamente. Reinicie o dispositivo. Verifique se há atualizações disponíveis para o aplicativo. Desinstale e reinstale o aplicativo."
+  },
+  {
+    "problema": "A bateria está descarregando rápido",
+    "solucao": "Reduza o brilho da tela. Desative os recursos desnecessários, como Bluetooth e GPS. Feche os aplicativos em segundo plano. Verifique se há atualizações de software disponíveis."
+  },
+  {
+    "problema": "Não consigo fazer download de arquivos",
+    "solucao": "Verifique sua conexão com a internet. Verifique se você tem espaço de armazenamento suficiente disponível. Verifique as configurações do seu navegador."
+  },
+  {
+    "problema": "O teclado não funciona",
+    "solucao": "Verifique se o teclado está conectado ao computador. Experimente conectar o teclado a uma porta USB diferente. Reinicie o computador. Verifique se há drivers de teclado atualizados disponíveis."
+  },
+  {
+    "problema": "O mouse não funciona",
+    "solucao": "Verifique se o mouse está conectado ao computador. Experimente conectar o mouse a uma porta USB diferente. Reinicie o computador. Verifique se há drivers de mouse atualizados disponíveis."
+  },
+  {
+    "problema": "A tela está preta",
+    "solucao": "Verifique se o monitor está ligado e conectado ao computador. Verifique se o cabo de vídeo está conectado corretamente. Verifique se a placa de vídeo está funcionando corretamente."
+  },
+  {
+    "problema": "O computador não liga",
+    "solucao": "Verifique se o cabo de alimentação está conectado corretamente. Verifique se a tomada está funcionando. Verifique se o botão de energia está funcionando."
+  },
+  {
+    "problema": "O som está distorcido",
+    "solucao": "Verifique se os alto-falantes estão conectados corretamente. Ajuste o volume. Verifique as configurações de som do seu computador."
+  },
+  {
+    "problema": "A webcam não funciona",
+    "solucao": "Verifique se a webcam está conectada ao computador. Verifique se a webcam está ligada. Verifique as configurações de privacidade da webcam."
+  },
+  {
+    "problema": "O microfone não funciona",
+    "solucao": "Verifique se o microfone está conectado ao computador. Verifique se o microfone está ligado. Verifique as configurações de privacidade do microfone."
+  },
+  {
+    "problema": "Não consigo instalar o programa",
+    "solucao": "Verifique se você tem permissões de administrador para instalar programas. Verifique se o programa é compatível com seu sistema operacional. Desative o software antivírus temporariamente durante a instalação."
+  },
+  {
+    "problema": "O computador está superaquecendo",
+    "solucao": "Limpe as ventoinhas e dissipadores de calor do computador. Verifique se há fluxo de ar suficiente ao redor do computador. Evite usar o computador em superfícies macias, como camas ou sofás."
+  },
+  {
+    "problema": "A conexão Wi-Fi está instável",
+    "solucao": "Aproxime-se do roteador. Reinicie o roteador. Mude para um canal Wi-Fi menos congestionado. Verifique se há interferência de outros dispositivos eletrônicos."
+  },
+  {
+    "problema": "O Bluetooth não funciona",
+    "solucao": "Verifique se o Bluetooth está ligado. Verifique se o dispositivo Bluetooth está emparelhado com o computador. Reinicie o computador e o dispositivo Bluetooth."
+  },
+  {
+    "problema": "O disco rígido está cheio",
+    "solucao": "Exclua arquivos desnecessários. Desinstale programas desnecessários. Mova arquivos para um disco rígido externo ou armazenamento em nuvem."
+  },
+  {
+    "problema": "O sistema operacional está corrompido",
+    "solucao": "Execute uma restauração do sistema. Reinstale o sistema operacional."
+  },
+  {
+    "problema": "O computador está infectado com um vírus",
+    "solucao": "Execute uma verificação completa do sistema com um software antivírus. Remova os arquivos infectados."
+  },
+  {
+    "problema": "A placa-mãe está com defeito",
+    "solucao": "Substitua a placa-mãe."
+  },
+  {
+    "problema": "A fonte de alimentação está com defeito",
+    "solucao": "Substitua a fonte de alimentação."
+  },
+  {
+    "problema": "A memória RAM está com defeito",
+    "solucao": "Substitua a memória RAM."
+  }
+]
